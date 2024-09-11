@@ -54,5 +54,7 @@ python Main.py
 ```
 File Descriptions
 EncodeGenerator.py: Encodes student images and uploads them to Firebase Storage.
+
 Main.py: Captures video, recognizes faces, and updates attendance.
+
 AddDataToDatabase.py: Adds initial student data to Firebase Realtime Database.
