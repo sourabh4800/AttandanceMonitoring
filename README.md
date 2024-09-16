@@ -14,7 +14,7 @@ This project is a Gym Management System that uses face recognition to track atte
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-repo/gym-management-system.git
+    git clone https://github.com/sourabh4800/AttandanceMonitoring.git
     cd gym-management-system
     ```
 
